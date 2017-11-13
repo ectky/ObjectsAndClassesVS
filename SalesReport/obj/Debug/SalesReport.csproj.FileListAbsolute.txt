@@ -1,0 +1,5 @@
+D:\VSProjects\ObjectsAndClasses\SalesReport\bin\Debug\SalesReport.exe.config
+D:\VSProjects\ObjectsAndClasses\SalesReport\bin\Debug\SalesReport.exe
+D:\VSProjects\ObjectsAndClasses\SalesReport\bin\Debug\SalesReport.pdb
+D:\VSProjects\ObjectsAndClasses\SalesReport\obj\Debug\SalesReport.exe
+D:\VSProjects\ObjectsAndClasses\SalesReport\obj\Debug\SalesReport.pdb
