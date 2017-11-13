@@ -1,0 +1,5 @@
+D:\VSProjects\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe.config
+D:\VSProjects\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe
+D:\VSProjects\ObjectsAndClasses\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.pdb
+D:\VSProjects\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.exe
+D:\VSProjects\ObjectsAndClasses\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.pdb

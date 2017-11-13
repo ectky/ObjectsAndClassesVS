@@ -1,0 +1,5 @@
+D:\VSProjects\ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.exe.config
+D:\VSProjects\ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.exe
+D:\VSProjects\ObjectsAndClasses\RandomizeWords\bin\Debug\RandomizeWords.pdb
+D:\VSProjects\ObjectsAndClasses\RandomizeWords\obj\Debug\RandomizeWords.exe
+D:\VSProjects\ObjectsAndClasses\RandomizeWords\obj\Debug\RandomizeWords.pdb
