@@ -1,0 +1,5 @@
+D:\VSProjects\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe.config
+D:\VSProjects\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.exe
+D:\VSProjects\ObjectsAndClasses\ClosestTwoPoints\bin\Debug\ClosestTwoPoints.pdb
+D:\VSProjects\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.exe
+D:\VSProjects\ObjectsAndClasses\ClosestTwoPoints\obj\Debug\ClosestTwoPoints.pdb

@@ -1,0 +1,6 @@
+D:\VSProjects\ObjectsAndClasses\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.exe.config
+D:\VSProjects\ObjectsAndClasses\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.exe
+D:\VSProjects\ObjectsAndClasses\AndreyAndBilliard\bin\Debug\AndreyAndBilliard.pdb
+D:\VSProjects\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.exe
+D:\VSProjects\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.pdb
+D:\VSProjects\ObjectsAndClasses\AndreyAndBilliard\obj\Debug\AndreyAndBilliard.csprojResolveAssemblyReference.cache

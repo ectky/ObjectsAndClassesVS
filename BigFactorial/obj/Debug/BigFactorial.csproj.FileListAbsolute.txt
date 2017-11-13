@@ -1,0 +1,6 @@
+D:\VSProjects\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.exe.config
+D:\VSProjects\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.exe
+D:\VSProjects\ObjectsAndClasses\BigFactorial\bin\Debug\BigFactorial.pdb
+D:\VSProjects\ObjectsAndClasses\BigFactorial\obj\Debug\BigFactorial.csprojResolveAssemblyReference.cache
+D:\VSProjects\ObjectsAndClasses\BigFactorial\obj\Debug\BigFactorial.exe
+D:\VSProjects\ObjectsAndClasses\BigFactorial\obj\Debug\BigFactorial.pdb

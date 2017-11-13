@@ -1,0 +1,6 @@
+D:\VSProjects\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.exe.config
+D:\VSProjects\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.exe
+D:\VSProjects\ObjectsAndClasses\BookLibrary\bin\Debug\BookLibrary.pdb
+D:\VSProjects\ObjectsAndClasses\BookLibrary\obj\Debug\BookLibrary.csprojResolveAssemblyReference.cache
+D:\VSProjects\ObjectsAndClasses\BookLibrary\obj\Debug\BookLibrary.exe
+D:\VSProjects\ObjectsAndClasses\BookLibrary\obj\Debug\BookLibrary.pdb

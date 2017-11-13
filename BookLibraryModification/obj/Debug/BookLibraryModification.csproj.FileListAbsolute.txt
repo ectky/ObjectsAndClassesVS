@@ -1,0 +1,5 @@
+D:\VSProjects\ObjectsAndClasses\BookLibraryModification\bin\Debug\BookLibraryModification.exe.config
+D:\VSProjects\ObjectsAndClasses\BookLibraryModification\bin\Debug\BookLibraryModification.exe
+D:\VSProjects\ObjectsAndClasses\BookLibraryModification\bin\Debug\BookLibraryModification.pdb
+D:\VSProjects\ObjectsAndClasses\BookLibraryModification\obj\Debug\BookLibraryModification.exe
+D:\VSProjects\ObjectsAndClasses\BookLibraryModification\obj\Debug\BookLibraryModification.pdb
